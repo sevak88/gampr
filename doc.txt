@@ -1,0 +1,8 @@
+PHP v7.4.9
+Mysql  Ver 8.0.22
+
+Laravel v8.18.1
+
+Bootstrap v4.5.3
+jquery v3.5.1
+font-awesome

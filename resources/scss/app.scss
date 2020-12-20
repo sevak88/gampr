@@ -1,0 +1,23 @@
+//@import "bootstrap";
+@import "../css/styles.css";
+.gampr-bg{
+    background: url("../assets/img/headerimg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gampr-bg-puchur{
+    background: url("../assets/img/portfolio/3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.posts p.card-title{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.posts .post img{
+    max-height: 210px
+}

@@ -1,0 +1,8 @@
+window.$ = window.jQuery = require('jquery')
+require("./jquery.easing.min")
+require('popper.js')
+require('bootstrap/dist/js/bootstrap.min')
+require("./font-awesome-all")
+require("./jqBootstrapValidation")
+require("./contact_me")
+require("./scripts")
